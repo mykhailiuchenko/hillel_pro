@@ -1,0 +1,28 @@
+.block {
+  width: 200px;
+  height: 200px;
+  border: 3px solid blue;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.green {
+  position: absolute;
+  left: 25%;
+  bottom: 0;
+  background-color: green;
+  width: 100px;
+}
+
+.red {
+  position: absolute;
+  left: 25%;
+  background-color: red;
+  width: 100px;
+}
+
+.count {
+  position: absolute;
+  left: 25%;
+  font-size: 2em;
+}
