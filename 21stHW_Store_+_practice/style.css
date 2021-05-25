@@ -1,11 +1,10 @@
-.element {
-  width: 200px;
-  height: 50px;
-  border: 1px solid black;
-  margin: 10px 0;
-  padding: 25px;
+button {
+  margin: 10px;
 }
 
-.counter {
-  font-size: 40px;
+div {
+  border: 1px solid black;
+  width: 100px;
+  padding: 5px 20px;
+  margin-bottom: 5px;
 }

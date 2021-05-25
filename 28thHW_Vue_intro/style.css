@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
+}
+
+li {
+  padding: 5px 0;
+}
+
+.firstList,
+.secondList {
+  padding: 10px;
+  border: 1px solid black;
+}
